@@ -1,5 +1,5 @@
 # VampireSurvivorsChineseTranslate
-吸血鬼幸存者并不完整的中文翻译
+吸血鬼幸存者并不完整的中文翻译(99%)
 
 # 使用方法
    下载上面的lang.rar
@@ -9,3 +9,5 @@
 ## 学习版
    resources--->app--->.webpack--->renderer--->assets
     直接解压到此文件夹中 替换即可
+    
+注：当前版本 v0.5.105-EA
