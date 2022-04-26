@@ -10,4 +10,4 @@
    resources--->app--->.webpack--->renderer--->assets
     直接解压到此文件夹中 替换即可
     
-注：当前版本 v0.5.105-EA
+注：当前版本 v0.5.106-EA
